@@ -1,0 +1,9 @@
+.box:hover {
+  transform: scale(1.01);
+}
+.box {
+  border: 0px;
+}
+.btncolor {
+  background-color: rgb(0, 162, 255);
+}
